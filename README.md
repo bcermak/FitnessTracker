@@ -10,18 +10,21 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 * Javascript
 * NPM Packages (Express, Mongoose, Path, Logger, Morgan )
 
-## Deployed Application ##
+### Video Demo: 
 
-Heroku: https://fitnesstrackerrrr.herokuapp.com/
-GitHub Repository: https://github.com/bcermak/FitnessTracker
-
-Video Demo:
-
-Step-by-Step with Screenshots:
+### Step-by-Step with Screenshots: 
 
 Step 1 -
-<img src = "" alt = "">
+<img src = "" alt = "step1"><br>
 Step 2 -
-<img src = "" alt = "">
+<img src = "" alt = "step2"><br>
+Step 3 -
+<img src = "" alt = "step3"><br>
+Step 4 -
+<img src = "" alt = "step4"><br>
 
+## Deployed Application ##
+
+Heroku: https://fitnesstrackerrrr.herokuapp.com/<br>
+GitHub Repository: https://github.com/bcermak/FitnessTracker
 
