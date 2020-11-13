@@ -3,7 +3,7 @@
 <p>Project Lead: Brandon Cermak</P>
 
 ## User Story ##
-Users wants to be able to track their workouts. Users need an app that will create, display, and update their most recent workout. If the user is already working out, they will then be able to add excercises. If they are starting a new workout, they will then be able to update their 'current workout'. 
+As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, type, weight, sets, reps, and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ## Technologies Used ##
 * MongoDB
@@ -12,6 +12,7 @@ Users wants to be able to track their workouts. Users need an app that will crea
 
 ## Deployed Application ##
 
+Heroku: https://fitnesstrackerrrr.herokuapp.com/
 GitHub Repository: https://github.com/bcermak/FitnessTracker
 
 Video Demo:
